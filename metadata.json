@@ -1,0 +1,5 @@
+{
+  "name": "School Facility Booking System",
+  "description": "A web application for students, instructors, and administrators to reserve school facilities like labs and classrooms efficiently. The system automates the booking process, prevents scheduling conflicts, and includes an admin approval workflow.",
+  "requestFramePermissions": []
+}
